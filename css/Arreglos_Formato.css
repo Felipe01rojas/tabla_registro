@@ -1,0 +1,38 @@
+body {
+    background-image: url(../img/descarga1.jpg) ;
+}
+table {
+    margin: auto;
+    color: white;
+}
+.contenedor {
+    margin: auto;
+    width: 500px;
+    height: 320px;
+    color: white;
+}
+.registrar {
+    height: 30px;
+    border:0; 
+    color: #fff;
+    margin-bottom: 5px;
+    background-image: -webkit-gradient(linear, right top, left top, from(#00b7da), color-stop(#161569), to(#00b7da));
+    background-image: linear-gradient(to left, #00b7da, #161569, #00b7da);
+    -webkit-transition: .2s ease all;
+    transition: .2s ease all;
+}
+input {
+    width: 100%;
+    height: 25px;
+    border: 1px solid gray;
+    margin-bottom: 5px;
+}
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #1B4F72;   
+}
+h1 {
+    text-align: center;
+}
